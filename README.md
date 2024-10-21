@@ -10,6 +10,15 @@ Despite the rapid advancement of LLMs, there are still many practical issues and
 - **Document missing capabilities** or areas where LLMs fail.
 - **Collaboratively identify** and track potential solutions or research directions.
 
+## 💡 Who Is This For?
+
+This repository is for everyone! Whether you’re:
+- An **LLM user** who encountered a frustrating limitation.
+- A **researcher** identifying important areas for future work.
+- A **developer** wanting to understand where these models can improve.
+
+Your contributions will help guide the future development of LLMs by highlighting concrete problems and missing capabilities.
+
 ## ✨ How You Can Contribute
 
 We’ve made contributing as simple as possible. If you’ve encountered a limitation or problem with an LLM, you can contribute to the growing list by submitting a pull request (PR) to this repository. Here’s how:
